@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "YgER2ebJ4euotYgCMU6elb4P2SZncLGN6waykjAnVKWKtke2eRmtXaepRQZrWYUWNwJs5czC2G3bMqG9jUWA2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hassaanhanif\\Desktop\\Power_Bi_Embedded\\Embed for your customers\\AppOwnsData\\AppOwnsData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hassaanhanif\\.nuget\\packages\\microsoft.identity.client\\4.21.0\\microsoft.identity.client.4.21.0.nupkg.sha512",
+    "C:\\Users\\hassaanhanif\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hassaanhanif\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\hassaanhanif\\.nuget\\packages\\microsoft.powerbi.api\\3.21.0\\microsoft.powerbi.api.3.21.0.nupkg.sha512",
+    "C:\\Users\\hassaanhanif\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\microsoft.rest.clientruntime.2.3.21.nupkg.sha512",
+    "C:\\Users\\hassaanhanif\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
+    "C:\\Users\\hassaanhanif\\.nuget\\packages\\microsoft.web.librarymanager.build\\2.1.76\\microsoft.web.librarymanager.build.2.1.76.nupkg.sha512",
+    "C:\\Users\\hassaanhanif\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\hassaanhanif\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\hassaanhanif\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\hassaanhanif\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\hassaanhanif\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\hassaanhanif\\.nuget\\packages\\system.runtime.loader\\4.3.0\\system.runtime.loader.4.3.0.nupkg.sha512",
+    "C:\\Users\\hassaanhanif\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512",
+    "C:\\Users\\hassaanhanif\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\hassaanhanif\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
